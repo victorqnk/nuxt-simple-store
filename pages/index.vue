@@ -11,7 +11,7 @@
       />
     </div>
     <h6 class="text-gray-400 text-center mt-6">
-      <a href="#" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/victorqnk/nuxt-simple-store" target="_blank" rel="noopener noreferrer">
         Ir a Github
       </a>
     </h6>
